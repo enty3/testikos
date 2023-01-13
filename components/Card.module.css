@@ -1,0 +1,39 @@
+.name {
+    color: darkblue;
+}
+
+.price {
+    color: darkblue;
+}
+
+.category {
+    color: black;
+    display: inline-block;
+    padding: 5px;
+}
+
+.brand {
+    color: blue;
+    display: inline-block;
+}
+
+.description {
+    color: black;
+}
+
+.cardobal {
+    border: 1px solid blue;
+    margin: 1rem;
+    padding: 20px;
+  border-radius: 50px;
+    color: white;
+    background: lightblue;
+    width: 500px;
+
+
+}
+
+.nadpis {
+    margin: 0 auto;
+    text-align: center;
+}
